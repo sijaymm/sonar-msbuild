@@ -1,4 +1,4 @@
-FROM ubuntu:18.0
+FROM ubuntu:18.04
 
 # sqlpackage
 
