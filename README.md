@@ -1,2 +1,2 @@
 # sqlpackage
-SQL Package Docker
+Sonar MSBuild
